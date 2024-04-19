@@ -1,2 +1,2 @@
 # Predict-Customer-Clicked-Ads-Classification-by-Using-Machine-Learning
-Mini Project by Rakamin Academy
+A company in Indonesia wants to know the effectiveness of the advertisements they broadcast. This is important for companies operating in the digital marketing consultant sector to be able to find out how successful the advertisements being marketed are so that they can attract customers to see the advertisements. In this mini project, I was assigned as a member of the company's data team. I am responsible for finding insights regarding user behavior from this data by creating visualizations, creating machine learning that is relevant to the company's needs, and making recommendations from the findings obtained.
